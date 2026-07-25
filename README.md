@@ -1,1 +1,0 @@
-# malkajgiri-anutex-saibaba-temple
