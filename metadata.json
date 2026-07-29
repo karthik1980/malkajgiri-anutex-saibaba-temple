@@ -1,0 +1,6 @@
+{
+  "name": "Malkajgiri Anutex Saibaba Temple",
+  "description": "Official Devotee Portal & Operational Management for Shri Saibaba Temple, Anutex Road, Malkajgiri, Hyderabad. Features online payment gateway, 80G tax receipts, daily Annadanam, and Darshan queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
